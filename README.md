@@ -1,2 +1,2 @@
-# Langchain-LLM-App
+# Pet Name Generator - Based on Color
  
